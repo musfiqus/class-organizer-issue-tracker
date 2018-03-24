@@ -1,2 +1,2 @@
 # class-organizer-issue-tracker
-Issue tracker for Class Organizer
+Post your suggestions and issues for Class Organizer in the Issues tab.
